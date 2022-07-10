@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I'm Craig, a guy who's always learning new things.  I love creating websites and connecting with other developers.
 
 - 🔭 I’m currently working on ... React and TypeScirpt
-- 🌱 I’m currently learning ... Everything
+- 🌱 I’m currently learning ... Rust and WebAssembly
 - 👯 I’m looking to collaborate on ... Web Development
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: indigomx9@gmail.com
