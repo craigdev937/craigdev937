@@ -4,7 +4,7 @@ Just a guy who's always learning new things. I love creating websites and connec
 
 Skills: HTML / CSS / JS / TypeScript / React / Express / PostgreSQL
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on HTML, CSS, JavaScript, TypeScript, and React 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/indigomx9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7303585)  
