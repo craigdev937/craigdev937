@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I love reading and writing Science Fiction and Fantasy.
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigomx9)](https://github.com/anuraghazra/github-readme-stats)
