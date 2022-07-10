@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Craig
-![Web Developer](https://github.com/indigomx9)
 
 Just a guy who's always learning new things. I love creating websites and connecting with other developers.
 
