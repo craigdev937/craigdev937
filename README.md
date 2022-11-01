@@ -13,9 +13,9 @@ Skills: HTML / CSS / JS / TypeScript / React / Express / MongoDB Atlas, and Post
 - ⚡ Fun fact: I love reading and writing Science Fiction and Fantasy. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/indigomx9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7303585)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/craigdev937)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7303585)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indigomx9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigdev937)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=indigomx9&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=craigdev937&show_icons=true)  
 
