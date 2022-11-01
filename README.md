@@ -8,7 +8,7 @@ Skills: HTML / CSS / JS / TypeScript / React / Express / MongoDB Atlas, and Post
 - 🌱 I’m currently learning Rust and WebAssembly 
 - 👯 I’m looking to collaborate on Web Development 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: indigomx9@gmail.com 
+- 📫 How to reach me: craigdev937@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love reading and writing Science Fiction and Fantasy. 
 
