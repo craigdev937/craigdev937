@@ -5,7 +5,6 @@ Just a guy who's always learning new things. I love creating websites and connec
 
 Skills: HTML / CSS / JavaScript / TypeScript / React / Express / MongoDB Atlas, and PostgreSQL
 
-- 🌱 I’m currently learning React and TypeScript 
 - 👯 I’m looking to collaborate on Web Development 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: craigdev937@gmail.com 
