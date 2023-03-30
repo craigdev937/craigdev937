@@ -2,9 +2,6 @@
 ![](https://github.com/craigdev937)
 
 Just a guy who's always learning new things. I love creating websites and connecting with other developers.
-
-Skills: HTML / CSS / JavaScript / TypeScript / React / Express / MongoDB Atlas, and PostgreSQL
-
 - 👯 I’m looking to collaborate on Web Development 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: craigdev937@gmail.com 
