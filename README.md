@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Craig
+### Hi 👋, my name is Craig
 ![](https://github.com/craigdev937)
 
 Just a guy who's always learning new things. I love creating websites and connecting with other developers.
